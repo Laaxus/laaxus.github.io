@@ -21,26 +21,26 @@ If you've ever tried to read ARoAI code, you probably know how hard it is to gra
 
 # Quick Questions
 
-## Why dev diaries?
+#### Why dev diaries?
 
 1. It's fun
 2. It might help future modders to understand how ARoAI (now LRoAI) works
 3. It'll challenge my formal english writing skill (which definitly could be better, so please bear with me)
 
-## What needs to be done?
+#### What needs to be done?
 
 ![Roadmap](/assets/dd/dd0/lroai_overview.png)
 
 As I said earlier, I must rewrite almost everything. Sometimes for the sake of maintainability, sometimes for efficiency.
 
 
-## How often can we expect updates?
+#### How often can we expect updates?
 
 I'm a university student. I have a thesis to write, friends to see, another big project on the side and finally LRoAI as dead last.
 
 This does not mean I won't update the project however. I think 1 or 2 dev diaries a month is doable.
 
-## When will you stop maintaining LRoAI?
+#### When will you stop maintaining LRoAI?
 
 When it won't be fun anymore.
 
