@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laaxus Revision of AI : Dev Diary 0
+title: Laaxus Revision of AI Dev Diary 0
 subtitle: a New Beginning
 cover-img: /assets/img/path.jpg
 gh-repo: Laaxus/LRoAI
@@ -20,33 +20,33 @@ My goal for this project is to entirely rewrite ARoAI, step by step, to make it 
 If you've ever tried to read ARoAI code, you probably know how hard it is to grasp it, let alone maintain it. Maintainability will be my main focus, but it does not mean the AI will not improve over time. Even though I did most of the work on CWP, I'll start from a fresh base!
 
 
-## Quick Questions
+# Quick Questions
 
-# Why dev diaries?
+## Why dev diaries?
 
 1) It's fun
 2) It might help future modders to understand how ARoAI (now LRoAI) works
 3) It'll challenge my formal english writing skill (which definitly could be better, so please bear with me)
 
-# What needs to be done?
+## What needs to be done?
 
 ![Roadmap](/assets/dd/dd0/lroai_overview.png)
 
 As I said earlier, I must rewrite almost everything. Sometimes for the sake of maintainability, sometimes for efficiency.
 
 
-# How often can we expect updates?
+## How often can we expect updates?
 
 I'm a university student. I have a thesis to write, friends to see, another big project on the side and finally LRoAI as dead last.
 
 This does not mean I won't update the project however. I think 1 or 2 dev diaries a month is doable.
 
-# When will you stop maintaining LRoAI?
+## When will you stop maintaining LRoAI?
 
 When it won't be fun anymore.
 
 
-## 1.5 Changelog
+# 1.5 Changelog
 
 I've released a version of LRoAI that *should* be working with the current 1.5.2 patch.
 
