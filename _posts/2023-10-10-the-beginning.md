@@ -5,7 +5,6 @@ subtitle: a New Beginning
 cover-img: /assets/img/path.jpg
 gh-repo: Laaxus/LRoAI
 gh-badge: [star, fork, follow]
-share-img: /assets/img/path.jpg
 tags: [LRoAI]
 ---
 
@@ -24,9 +23,9 @@ If you've ever tried to read ARoAI code, you probably know how hard it is to gra
 
 ## Why dev diaries?
 
-1) It's fun
-2) It might help future modders to understand how ARoAI (now LRoAI) works
-3) It'll challenge my formal english writing skill (which definitly could be better, so please bear with me)
+1. It's fun
+2. It might help future modders to understand how ARoAI (now LRoAI) works
+3. It'll challenge my formal english writing skill (which definitly could be better, so please bear with me)
 
 ## What needs to be done?
 
