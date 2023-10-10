@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Laaxus Revision of AI Dev Diary 0
-subtitle: a New Beginning
+title: LRoAI Dev Diary 0
+subtitle: A New Beginning
 cover-img: /assets/img/path.jpg
 gh-repo: Laaxus/LRoAI
 gh-badge: [star, fork, follow]
@@ -10,7 +10,7 @@ tags: [LRoAI]
 
 Hello everyone!
 
-As Anbeeld stopped supporting [ARoAI](https://github.com/Anbeeld/ARoAI) in 1.3.6, the mod will officialy break for the upcoming 1.5.x version. This is why I decided to pick it up where he left it off.
+As Anbeeld stopped supporting [ARoAI](https://github.com/Anbeeld/ARoAI) in 1.3.6, the mod will officialy break for the upcoming 1.5.x version. This is why I decided to pick it up where he left it off, and introduce Laaxus Revision of AI (or LRoAI)!
 
 My name is Laaxus. You may know me as the main AI dev of Cold War Project. I've worked on it for months now, so I can confidently say that I understand ARoAI quite well.
 
